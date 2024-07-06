@@ -133,4 +133,4 @@ are excited to use it for your stock related queries.
 ## Designed by-
 ## _Aditya Jha & Jakharia Rishit_
 
-Check out Rishit's amazing works <a href="https://www.github.com/RISHIT7" target="_blank">here</a>.
+Check out Aditya's amazing works <a href="https://www.github.com/adityjhaa" target="_blank">here</a>.
